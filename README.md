@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Back-end
 - 💞️ I’m looking to collaborate on A project
 - 📫 How to reach me visit my portfolio website
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 Thatsshoaib/Thatsshoaib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
