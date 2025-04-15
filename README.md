@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Thatsshoaib
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Back-end
-- 💞️ I’m looking to collaborate on A project
-- 📫 How to reach me visit my portfolio website
+--👋 Hi, I’m @Thatsshoaib
+--💻 I’m a Full-Stack Web Developer passionate about building dynamic and responsive web applications
+--🚀 Skilled in both Frontend and Backend technologies
+--🤝 Open to collaborating on innovative web projects
+--🌐 You can reach me through my portfolio website
 
 
 <!---
